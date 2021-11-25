@@ -2,7 +2,7 @@
 
 ここは、 [開志専門職大学](https://kaishi-pu.ac.jp/) の授業で作ったものです。
 
-開志専門職大学 [情報学部](https://kaishi-pu.ac.jp/department/ict/) のことを書きます。
+開志専門職大学 [情報学部](https://kaishi-pu.ac.jp/department/ict/)に所属しています。。
 
 ### 私は、
 
