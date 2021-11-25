@@ -1,22 +1,24 @@
-## Welcome to GitHub Pages
+## Hello,World!!
 
-You can use the [editor on GitHub](https://github.com/satou0054/API-report1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ここは、 [開志専門職大学](https://kaishi-pu.ac.jp/) の授業で作ったものです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+開志専門職大学 [情報学部](https://kaishi-pu.ac.jp/department/ict/) のことを書きます。
 
-### Markdown
+### 私は、
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+私は佐藤有紀といいます。開志専門職大学の情報学科2年です。
 
-```markdown
-Syntax highlighted code block
+## 私のこと
 
-# Header 1
-## Header 2
-### Header 3
+### 新潟生まれ新潟育ち
+#### 2001/06/16生まれ
+##### 男性
 
-- Bulleted
-- List
+受けた授業
+- IoT演習
+- データサイエンス演習
+- 現代産業論　etc...
+
 
 1. Numbered
 2. List
@@ -24,7 +26,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
