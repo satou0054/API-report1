@@ -1,6 +1,6 @@
 ## Hello,World!!
 
-私は[開志専門職大学](https://kaishi-pu.ac.jp/）の[情報学科](https://kaishi-pu.ac.jp/department/ict/)に所属している佐藤有紀です。
+私は[開志専門職大学](https://kaishi-pu.ac.jp/)の[情報学部](https://kaishi-pu.ac.jp/department/ict/)に所属している佐藤有紀です。
 
 
 Syntax highlighted code block
