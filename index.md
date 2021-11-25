@@ -1,12 +1,6 @@
 ## Hello,World!!
 
-[editor on GitHub](https://github.com/satou0054/API-report1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+私は[開志専門職大学](https://kaishi-pu.ac.jp/）の[情報学科](https://kaishi-pu.ac.jp/department/ict/)に所属している佐藤有紀です。
 
 
 Syntax highlighted code block
@@ -23,7 +17,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
