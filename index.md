@@ -7,5 +7,5 @@
   ・APEX<br>
   ・ピクミン<br>
   ・Battlefield2042<br>
-  ・Phosmophobia<br>
+  ・Phasmophobia<br>
   
